@@ -1,0 +1,14 @@
+MultipleErrors: /home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/__tests__/createChangeEmitter-test.js:1:1: Unexpected reserved word import
+/home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/__tests__/createChangeEmitter-test.js:1:8: Semi-colon expected
+/home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/__tests__/createChangeEmitter-test.js:1:13: Semi-colon expected
+/home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/__tests__/createChangeEmitter-test.js:1:18: Semi-colon expected
+/home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/__tests__/createChangeEmitter-test.js:2:1: Unexpected reserved word import
+/home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/__tests__/createChangeEmitter-test.js:2:8: Semi-colon expected
+/home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/__tests__/createChangeEmitter-test.js:2:37: Semi-colon expected
+/home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/__tests__/createChangeEmitter-test.js:3:1: Unexpected reserved word import
+/home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/__tests__/createChangeEmitter-test.js:3:8: Semi-colon expected
+/home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/__tests__/createChangeEmitter-test.js:3:14: Semi-colon expected
+/home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/__tests__/createChangeEmitter-test.js:3:19: Semi-colon expected
+
+MultipleErrors: /home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/index.js:1:1: Unexpected reserved word export
+/home/zane/.jspm/packages/npm/change-emitter@0.1.2/src/index.js:1:8: Semi-colon expected

@@ -1,0 +1,1 @@
+module.exports = require("npm:xss-filters@1.2.7/src/xss-filters.js");

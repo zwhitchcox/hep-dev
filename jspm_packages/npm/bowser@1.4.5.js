@@ -1,0 +1,1 @@
+module.exports = require("npm:bowser@1.4.5/src/bowser.js");

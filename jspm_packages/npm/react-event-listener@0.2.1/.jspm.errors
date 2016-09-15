@@ -1,0 +1,20 @@
+MultipleErrors: /home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:1:21: Unexpected reserved word import
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:1:28: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:1:37: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:1:42: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:2:1: Unexpected reserved word import
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:2:8: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:2:14: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:2:19: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:3:1: Unexpected reserved word import
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:3:8: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:3:13: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:3:18: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:5:1: Unexpected reserved word import
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:5:8: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:7:1: Unexpected token }
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:7:3: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:7:8: Semi-colon expected
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:36:2: Unexpected token )
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:36:24: Unexpected token End of File
+/home/zane/.jspm/packages/npm/react-event-listener@0.2.1/test/unit.js:36:24: Unexpected token End of File

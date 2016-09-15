@@ -1,0 +1,1 @@
+module.exports = require("npm:pascalcase@0.1.1/index.js");

@@ -1,0 +1,1 @@
+module.exports = require("npm:recompose@0.20.2/index.js");

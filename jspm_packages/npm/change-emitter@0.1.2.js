@@ -1,0 +1,1 @@
+module.exports = require("npm:change-emitter@0.1.2/lib/index.js");
