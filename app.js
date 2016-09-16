@@ -1,3 +1,4 @@
+console.log('hello')
 import React, { Component } from 'react'
 import {
   Router,
@@ -18,7 +19,7 @@ const routes = <Route path='/' component={Layout}>
 class RenderForce extends Component {
   componentWillMount() {
     this.forceUpdate()
-    console.clear()
+    //console.clear()
   }
   render() {
     return <Router history={browserHistory}>
